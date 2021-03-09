@@ -12,6 +12,12 @@
     ],
     "homepage": "https://github.com/vamajordy/omnipay-bluesnap",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/vamajordy/omnipay-bluesnap"
+        }
+    ],
     "authors": [
         {
             "name": "Vady Major",
