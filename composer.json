@@ -1,5 +1,5 @@
 {
-    "name": "vimeo/omnipay-bluesnap",
+    "name": "vamajordy/omnipay-bluesnap",
     "type": "library",
     "description": "BlueSnap driver for the Omnipay payment processing library",
     "keywords": [
