@@ -32,7 +32,7 @@
     },
     "require": {
         "omnipay/common": "^3",
-        "vimeo/payment-gateway-logger": "^1.0",
+        "vamajordy/payment-gateway-logger": "^1.0",
         "ext-simplexml": "*"
     },
     "require-dev": {
